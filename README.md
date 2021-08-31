@@ -14,7 +14,9 @@ Below are the commands for creating a virtual environemnt.
       - pip list (Check pre installed packages in virtual environment)
       - pip insatall matplotlib 
       - pip install scikit-learn
-      -pip install streamlit
+      - pip install streamlit
+      - pip install numpy
+      - 
 2) Created a docker file in the VS code.
 3) Created a requirement text file in the VS code.
 4) Install Docker in the local system and using Powershell run below commands
