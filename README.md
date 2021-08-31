@@ -24,7 +24,7 @@ Below are the commands for creating a virtual environemnt.
          - docker build -t testimage .
 
      - After docker image create a container,name of my docker container is kavitacontainer
-         - docker run --name kavitacontainer -p 8501:8501 testimage
+         - docker run --name testcontainer -p 8501:8501 testimage
 5) Because web app is created using streatmlit, so we can run container now and app will directly run in the browser 
    using the link
    - localhost:8051
