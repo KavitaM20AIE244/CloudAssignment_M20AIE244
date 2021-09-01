@@ -8,15 +8,15 @@ Below are the steps followed-
 1) Created a machine learning code using Python and Streamlit which includes the pre-defined libraries(Streamlit,Matplotlib,Scikit Learn).
 I have written code using Visual Studio code. So to import the libraries, I have create one virtual environment in VS code.
 Below are the commands for creating a virtual environemnt.
-      - python -m venv --system-site-packages .\tf  (Create a virtual environment and tf is the name of my virtual environment)
-      - .\tf\Scripts\activate (Activate the virtual environment)
-      - pip install --upgrade pip (Upgrade to the latest version of pip)
-      - pip list (Check pre installed packages in virtual environment)
-      - pip insatall matplotlib 
-      - pip install scikit-learn
-      - pip install streamlit
-      - pip install numpy
-      - 
+      - **python -m venv --system-site-packages .\tf**  (Create a virtual environment and tf is the name of my virtual environment)
+      - **.\tf\Scripts\activate** (Activate the virtual environment)
+      - **pip install --upgrade pip** (Upgrade to the latest version of pip)
+      - **pip list** (Check pre installed packages in virtual environment)
+      - **pip insatall matplotlib**
+      - **pip install scikit-learn**
+      - **pip install streamlit**
+      - **pip install numpy**
+       
 2) Created a docker file in the VS code.
 3) Created a requirement text file in the VS code.
 4) Install Docker in the local system and using Powershell run below commands
