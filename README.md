@@ -21,13 +21,13 @@ Below are the commands for creating a virtual environemnt.
 3) Created a requirement text file in the VS code.
 4) Install Docker in the local system and using Powershell run below commands
      - Create a Docker image using below command, name of my docker image is testimage
-         - docker run -t testimage .
+         - **docker run -t testimage .**
 
      - After docker image create a container,name of my docker container is kavitacontainer
-         - docker build --name testcontainer -p 8501:8501 testimage
+         - **docker build --name testcontainer -p 8501:8501 testimage**
 5) Because web app is created using streatmlit, so we can run container now and app will directly run in the browser 
    using the link
-   - localhost:8051
+   - **localhost:8051**
 
 
 
